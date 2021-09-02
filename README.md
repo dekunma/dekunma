@@ -2,7 +2,7 @@
 + Dekun Ma / William / Him
 + Student at the 🏫 &nbsp;[New York University →](https://nyu.edu), Class of 2023, [Computer Science and Data Science (joint major) →](https://cs.nyu.edu/home/undergrad/major_programs.html)
 + Full-stack web developer, good at React and SpringBoot.
-+ Former intern at [ThoughtWorks](https://www.thoughtworks.com/).
++ Former intern at [ThoughtWorks →](https://www.thoughtworks.com/).
 
 ### 📫 Contact me
 + Wechat: Magnoliae_Flos
