@@ -1,8 +1,8 @@
 ### 🙋‍ Who am I
 + Dekun Ma / William / Him
 + Student at 🏫 &nbsp;[New York University →](https://nyu.edu), Class of 2023, [Computer Science and Data Science (joint major) →](https://cs.nyu.edu/home/undergrad/major_programs.html)
-+ Technical (Data) Program Manager intern at ♪ [TikTok (ByteDance) →](https://www.tiktok.com/about?lang=en)
 + Full-stack web developer, good at React and SpringBoot.
++ Former Technical (Data) Program Manager intern at ♪ [TikTok (ByteDance) →](https://www.tiktok.com/about?lang=en)
 + Former Full-stack SDE intern at [ThoughtWorks →](https://www.thoughtworks.com/).
 
 ### 📫 Contact me
