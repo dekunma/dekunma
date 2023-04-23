@@ -7,7 +7,7 @@
 
 ### 📫 Contact me
 + Wechat: Magnoliae_Flos
-+ Email: william@dekun.me
++ Email: will@dekun.me
 + LinkedIn: [Dekun Ma](https://www.linkedin.com/in/dekunma)
 
 ### 📚 GitHub Stats
