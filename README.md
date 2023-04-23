@@ -6,7 +6,7 @@
 + Former Full-stack SDE intern at [ThoughtWorks →](https://www.thoughtworks.com/).
 
 ### 📫 Contact me
-+ Wechat: Magnoliae_Flos
+<!-- + Wechat: Magnoliae_Flos -->
 + Email: will@dekun.me
 + LinkedIn: [Dekun Ma](https://www.linkedin.com/in/dekunma)
 
