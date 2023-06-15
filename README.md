@@ -10,8 +10,8 @@
 + Email: will@dekun.me
 + LinkedIn: [Dekun Ma](https://www.linkedin.com/in/dekunma)
 
-### 📚 GitHub Stats
+<!-- ### 📚 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dekunma&show_icons=true&theme=dracula)
 
 ### 💻 My Most Used Languages
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=dekunma&layout=compact&theme=dracula)
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=dekunma&layout=compact&theme=dracula) -->
