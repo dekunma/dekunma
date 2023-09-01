@@ -1,6 +1,6 @@
 ### 🙋‍ Who am I
 + Dekun Ma / Will / Him
-+ Incoming Master of Science in Computer Science graduate student at  Yale University.
++ Master of Science in Computer Science graduate student at  Yale University.
 + Graduated from 🗽&nbsp;[New York University →](https://nyu.edu), Class of 2023, [Computer Science and Data Science (joint major) →](https://cs.nyu.edu/home/undergrad/major_programs.html)
 + Former Technical (Data) Program Manager intern at ♪ [TikTok (ByteDance) →](https://www.tiktok.com/about?lang=en)
 + Former Full-stack SDE intern at [ThoughtWorks →](https://www.thoughtworks.com/).
