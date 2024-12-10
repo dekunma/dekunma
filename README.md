@@ -1,8 +1,8 @@
 ### 🙋‍ Who am I
 + Dekun Ma / Will / Him
 + Previous Software Engineer at ♪ TikTok Global E-Commerce Team 
-+ Master of Science in Computer Science graduate student at Yale University.
-+ Graduated from 🗽&nbsp;[New York University →](https://nyu.edu), Class of 2023, [Computer Science and Data Science (joint major) →](https://cs.nyu.edu/home/undergrad/major_programs.html)
++ Graduated from 🎓Yale University with a Master of Science degree in Computer Science.
++ Graduated from 🗽[New York University →](https://nyu.edu), Class of 2023, [Computer Science and Data Science (joint major) →](https://cs.nyu.edu/home/undergrad/major_programs.html)
 + Previous Technical (Data) Program Manager intern at ♪ [TikTok (ByteDance) →](https://www.tiktok.com/about?lang=en)
 + Previous Full-stack SDE intern at [ThoughtWorks →](https://www.thoughtworks.com/).
 
